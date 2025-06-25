@@ -1,0 +1,37 @@
+.navbar{
+    background: transparent;
+    transition: background-color 0.3s ease;
+}
+
+/* Navbar custom */
+
+.container{
+    max-width: 1000px !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+}
+
+.navbar.scrolled{
+    background-color: rgba(0,0,0,0.85);
+}
+
+.form-select{
+    background-color: rgba(0,0,0,0.6) !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+.form-select option{
+    background-color: black;
+}
+
+.btn-danger{
+    padding: 0.5rem 1.2rem !important;
+    white-space: nowrap;
+    transition: background-color 0.3s ease;
+}
+
+.btn-danger:hover{
+    background-color: #f6121d;
+}
+
