@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Kiruthicksan/Netflix-clone",
+  "homepage": "https://kiruthicksan.github.io/Netflix-clone/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
